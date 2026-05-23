@@ -24,5 +24,5 @@ A full-stack prototype for the Uttar Pradesh State Data Authority – allowing g
 
 ### 1. Clone & enter project
 ```bash
-git clone <repository-url>
+git clone git remote add origin https://github.com/navjot1995/sda-metadata-portal.git
 cd sda-metadata-portal
